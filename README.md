@@ -24,7 +24,7 @@ Percent of Population ages 18-65: NYC: 65% Des Moines: 64%
 
 Percent of Population under 18: NYC: 20.9%  Des Moines: 24.5%
 
-Younger clients could shift the mix of overall clients to a younger demographic in Des Moines, vs NYC.  In NYC those under 25 had the longest rides, driving up revenue per ride in Des Moines vs NYC.
+Younger clients could shift the mix of overall clients to a younger demographic in Des Moines, vs NYC.  In NYC those under 25 had the longest rides.  This demographic shift in Des Moines has the potential to drive up revenue per ride in Des Moines.
 
 ### Looking at why Des Moines has so many McDonald's per capita vs NYC and how that might relate to the merits of starting a Bike Rental business:
 
