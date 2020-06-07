@@ -9,7 +9,7 @@ I looked at the density of McDonalds in NYC and Des Moines, Iowa. McDonalds like
 
 When compared with NYC, the number of McDonalds is only 19% less whereas their population is 95% smaller.  Thus, McDonalds locations are more spread out in DesMoines vs NYC.  I provided a side by side map both at the same 10 mile scale so you can visually see the difference in density of McDonalds.
 
-### Even though McDonalds location density is lower in Des Moines, there are other factors that make Des Moines worth considering for a Bike Rental Business.  As I built out Tableau Stories, I included these supporting data that show that NYC Ridesharing data is still a good predictor of the success of a Ridesharing business in Des Moines, Iowa:
+##### Even though McDonalds location density is lower in Des Moines, there are other factors that make Des Moines worth considering for a Bike Rental Business.  As I built out Tableau Stories, I included these supporting data that show that NYC Ridesharing data is still a good predictor of the success of a Ridesharing business in Des Moines, Iowa:
 
 Findings:
 
