@@ -7,7 +7,7 @@ Here is the link to the [Tableau Story](https://public.tableau.com/profile/em.sm
 
 I looked at the density of McDonalds in NYC and Des Moines, Iowa. McDonalds likely places their restaurants where people are gathering multiple times per day, ie in business districts. That way, they can serve 3 meals per day.  It is unlikely that the location of a McDonalds restaurant alters where people go in the city.  The causation is the other way around: McDonalds places restaurants where they see the highest traffic.  This can still be very useful data for examining a potential Bike Rental business.
 
-When compared with NYC, the number of McDonalds is only 19% less whereas their population is 95% smaller.  Thus, McDonalds locations are more spread out in DesMoines vs NYC.  I provided a side by side map both at the same 10 mile scale so you can visually see the difference in density of McDonalds.
+When compared with NYC, the number of McDonalds is only 19% less whereas their population is 95% smaller.  Thus, McDonalds locations are more spread out in Des Moines, Iowa vs NYC.  I provided a side by side map both at the same 10 mile scale so you can visually see the difference in density of McDonalds.
 
 ##### Even though McDonalds location density is lower in Des Moines, there are other factors that make Des Moines worth considering for a Bike Rental Business.  As I built out Tableau Stories, I included these supporting data that show that NYC Ridesharing data is still a good predictor of the success of a Ridesharing business in Des Moines, Iowa:
 
