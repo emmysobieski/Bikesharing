@@ -20,29 +20,23 @@ NYC Bike Rental times follow normal commuting hours, despite high tourist number
 Comparing both cities using Census Data: 
 
 
-Percent of Population ages 18-65:
+Percent of Population ages 18-65: NYC: 65% Des Moines: 64%
 
-NYC: 65% Des Moines: 64%
-
-Percent of Population under 18:
-
-NYC: 20.9%  Des Moines: 24.5%
+Percent of Population under 18: NYC: 20.9%  Des Moines: 24.5%
 
 Younger clients could shift the mix of overall clients to a younger demographic in Des Moines, vs NYC.  In NYC those under 25 had the longest rides, driving up revenue per ride in Des Moines vs NYC.
 
 ### Looking at why Des Moines has so many McDonald's per capita vs NYC and how that might relate to the merits of starting a Bike Rental business:
 
-NYC has higher household income than Des Moines:
+NYC has higher household income than Des Moines: Household Income $60,762 NYC vs $52,251 Des Moines
 
-Household Income $60,762 vs $52,251
+Median Gross Rent (2014-2018): $871 NYC vs 498 Des Moines
 
-Median Gross Rent (2014-2018): $871 vs 498
+Poverty: 18.9% NYC  vs 17.2% Des Moines
 
-Poverty: 18.9%  vs 17.2%
+Sales per Capita: $11,067 NYC vs $10,596 Des Moines
 
-Sales per Capita: $11,067 vs $10,596
-
-Des Moines has 42% lower rent, with only 14% lower household income, freeing them up to spend just 4% less per capita than people in NYC.  This is an attractive market with lower poverty and solid disposable income.
+##### Des Moines has 42% lower rent, with only 14% lower household income, freeing them up to spend just 4% less per capita than people in NYC.  This is an attractive market with lower poverty and solid disposable income.
 
 ### Areas for further study
 
